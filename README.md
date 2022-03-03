@@ -1,0 +1,2 @@
+# stm32_app_inventor_esp8266
+利用stm32+app inventor与esp8266通信
